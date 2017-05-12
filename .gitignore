@@ -1,6 +1,3 @@
-#编译生成的.class件
-.class
-#忽略target目录
-target
-
-.setting
+#.class
+#target
+#.setting

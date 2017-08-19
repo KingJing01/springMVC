@@ -3,3 +3,5 @@ target
 .settings
 .idea
 .classpath
+*.MF
+*.imp

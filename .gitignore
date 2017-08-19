@@ -1,4 +1,5 @@
 .class
 target
-.setting
+.settings
 .idea
+.classpath

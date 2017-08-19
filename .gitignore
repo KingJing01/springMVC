@@ -5,3 +5,5 @@ target
 .classpath
 *.MF
 *.imp
+/webapp/WEB-INF/classes
+/webapp/WEB-INF/lib

@@ -6,11 +6,11 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Spring</name>
-	<url>http://maven.apache.org</url>
+	<url>http://maven.apache.org</url>d
 	<!-- 配置版本号 -->
 	<properties>
 		<!-- spring 版本号 -->
-		<spring.version>4.2.9.RELEASE</spring.version>
+		<spring.version>4.3.10.RELEASE</spring.version>
 		<!-- mybatis版本号 -->
 		<mybatis.version>3.4.1</mybatis.version>
 	</properties>
